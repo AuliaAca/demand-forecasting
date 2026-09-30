@@ -69,3 +69,5 @@ reports/figures/*.png
 # Phase 02 once the smoke test started spanning more than one phase.)
 reports/fixture_smoke_test/
 reports/phase01/fixture_smoke_test/
+
+demand-forecasting/
